@@ -1,8 +1,11 @@
 .contenedor{
   
 width: 100%;
-height: 1200px;
+height: 8000px;
 background-color: rgb(167, 135, 231);
+display: flex;
+flex-direction:column ;
+text-align: center;
 
 }
 
@@ -11,11 +14,58 @@ background-color: rgb(167, 135, 231);
     height: 200px;
     background-color: rgb(148, 92, 201);
 
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+
+    
+}
+.biologia{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(88, 238, 225);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+
 }
 
-.sociales{
+
+.quimica{
     width: 100%;
-    height: 100px;
-    background-color: rgb(12, 161, 230);
+    height: 600px;
+    background-color: rgb(0, 235, 215);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+
+}
+
+.matematicas{
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(255, 231, 95);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    ;
+
+}
+
+.ingles{
+    width: 100%;
+    height: 8600px;
+    background-color: rgb(247, 199, 168);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tecnologia{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(47, 165, 233);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
