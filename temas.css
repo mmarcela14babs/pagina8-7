@@ -1,7 +1,7 @@
 .contenedor{
   
 width: 100%;
-height: 8000px;
+height: 6000px;
 background-color: rgb(167, 135, 231);
 display: flex;
 flex-direction:column ;
@@ -31,7 +31,6 @@ text-align: center;
 
 }
 
-
 .quimica{
     width: 100%;
     height: 600px;
@@ -44,7 +43,7 @@ text-align: center;
 
 .matematicas{
     width: 100%;
-    height: 2000px;
+    height: 1800px;
     background-color: rgb(255, 231, 95);
     font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -54,16 +53,17 @@ text-align: center;
 
 .ingles{
     width: 100%;
-    height: 8600px;
+    height: 7000px;
     background-color: rgb(247, 199, 168);
     font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: calc( separate);
 
 }
 
 .tecnologia{
     width: 100%;
-    height: 400px;
+    height: 800px;
     background-color: rgb(47, 165, 233);
     font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
